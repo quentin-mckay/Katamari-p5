@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 .p5Canvas {
-	@apply absolute top-0 z-10 pointer-events-none
+    @apply absolute top-0 z-10 pointer-events-none;
 }
