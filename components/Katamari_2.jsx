@@ -128,7 +128,8 @@ const Katamari_2 = () => {
             // console.log('got span')
             element.style.visibility = 'hidden'
 
-            // console.log(word)
+            console.log(word)
+            
             if (word !== ' ') {
                 collectedWords.push(word)
             }

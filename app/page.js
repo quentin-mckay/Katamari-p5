@@ -4,7 +4,7 @@ import Katamari_3 from '@/components/Katamari_3'
 
 const Home = () => {
     return (
-        <div className='bg-slate-800 h-screen text-3xl text-white overflow-hidden space-y-8'>
+        <div className='bg-slate-800 h-screen text-3xl text-white overflow-hidden space-y-12'>
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Placeat, laudantium! Quasi asperiores iste vero sint eius,
